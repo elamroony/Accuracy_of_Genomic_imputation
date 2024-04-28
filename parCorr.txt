@@ -1,0 +1,8 @@
+3                     ! Number of ind
+5                     ! Number of SNPs
+originalFile.txt      ! Original file
+imputedFile.txt       ! imputed file
+outImpuAcc.txt        ! outfile
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
